@@ -86,6 +86,18 @@ Al arrancar, se insertaran automaticamente 10 propietarios y 10 mascotas
 si la base de datos esta vacia.
 
 ---
+### 6. Capturas de pantalla páginas principales
+
+<img width="1912" height="597" alt="inicio" src="https://github.com/user-attachments/assets/cf841eca-01d7-4862-b456-9d27e92367bf" />
+
+<img width="1691" height="797" alt="listadoPropietarios" src="https://github.com/user-attachments/assets/31dcfe79-a0e9-49d3-afdf-fec3613e3857" />
+
+<img width="1677" height="817" alt="listadoMacotas" src="https://github.com/user-attachments/assets/d2ea1311-8b5f-41d1-9b10-795ff7d66742" />
+
+<img width="1672" height="738" alt="altaPropietario" src="https://github.com/user-attachments/assets/0016be03-0e23-4055-8f89-30e7accfd31b" />
+
+<img width="1722" height="762" alt="altaMascota" src="https://github.com/user-attachments/assets/57a6dc00-41f4-4b49-aa27-cc1c6029bbe9" />
+
 
 ## Endpoints disponibles
 
