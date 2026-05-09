@@ -83,37 +83,6 @@ si la base de datos esta vacia.
 
 ---
 
-## Estructura del proyecto
-
-src/
-├── main/
-│   ├── java/com/clinica/veterinaria/
-│   │   ├── VeterinariaApplication.java  - Clase principal
-│   │   ├── model/
-│   │   │   ├── Propietario.java         - Entidad JPA Propietario
-│   │   │   └── Mascota.java             - Entidad JPA Mascota
-│   │   ├── repository/
-│   │   │   ├── PropietarioRepository.java
-│   │   │   └── MascotaRepository.java
-│   │   ├── controller/
-│   │   │   └── VeterinariaController.java
-│   │   └── runner/
-│   │       └── DataLoader.java          - Datos iniciales
-│   └── resources/
-│       ├── templates/                   - Vistas Thymeleaf
-│       │   ├── inicio.html
-│       │   ├── listadoPropietario.html
-│       │   ├── listadoMascota.html
-│       │   ├── altaPropietario.html
-│       │   ├── altaMascota.html
-│       │   └── error.html
-│       ├── static/img/                  - Imagenes
-│       ├── application.properties
-│       └── schema.sql
-└── pom.xml
-
----
-
 ## Endpoints disponibles
 
 | Metodo | URL | Descripcion |
