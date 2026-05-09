@@ -66,11 +66,9 @@ propietario y mascota.
 ### 3. Configurar la conexion a la base de datos
 Abre el archivo src/main/resources/application.properties y ajusta:
 
-### 3. Configurar la conexion a la base de datos
-Abre el archivo src/main/resources/application.properties y ajusta:
-
 spring.datasource.url=jdbc:mysql://localhost:3306/clinica_veterinaria?
 createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+
 spring.datasource.username=root
 spring.datasource.password=
 
