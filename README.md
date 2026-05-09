@@ -67,9 +67,11 @@ propietario y mascota.
 Abre el archivo src/main/resources/application.properties y ajusta:
 
 spring.datasource.url=jdbc:mysql://localhost:3306/clinica_veterinaria?
+
 createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
 
 spring.datasource.username=root
+
 spring.datasource.password=
 
 ### 4. Ejecutar la aplicacion
